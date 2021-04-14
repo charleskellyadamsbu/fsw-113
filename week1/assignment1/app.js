@@ -21,7 +21,7 @@ const gradStudents = [
 
 gradStudents.forEach(element => console.log(element));
 
-students[0].dateOfBirth = "10/10/10", students[1].dateOfBirth = "10/10/11", students[2].dateOfBirth = "10/10/12", students[3].dateOfBirth = "10/10/13";
+students[0].dateOfBirth = "03/15/94", students[1].dateOfBirth = "05/22/83", students[2].dateOfBirth = "01/02/96", students[3].dateOfBirth = "12/14/91";
 students[0].state = "California", students[1].state = "United Kingdom", students[2].state = "United Kingdom", students[3].state = "Arizona";
 students[0].payRate = "$12.00/hour", students[1].payRate = "$14.00/hour", students[2].payRate = "$20.00/hour", students[3].payRate = "$11.00/hour";
 
