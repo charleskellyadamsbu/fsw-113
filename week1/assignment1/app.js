@@ -32,7 +32,7 @@ gradStudents.forEach(element => console.log(element));
 */
 
 const multipliers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
-const multiplication = [1, 2, 3, 4];
+const multiplication = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12];
 const tableStart = 1;
 const tableEnd = 12;
 const table = [];
